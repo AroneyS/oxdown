@@ -21,7 +21,7 @@ Open Rstudio and type:
 
 ```r
 if (!require("devtools")) install.packages("devtools", repos = "http://cran.rstudio.org")
-devtools::install_github("davidplans/oxdown")
+devtools::install_github("aroneys/oxdown")
 ```
 
 To use it, open Rstudio, click on **File > New File > Rmarkdown ...** and then
