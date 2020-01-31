@@ -1,3 +1,7 @@
+# oxdown 0.0.1
+
+- forked from ismayc/thesisdown and fixed minor details and appropriate copy
+
 # thesisdown 0.0.2
 
 - Changed default filename (in directions) to be `index` instead of `skeleton` to match with gitbook requirements
